@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/ilhamelmujib/Documents/AndroidStudioProjects/AndroidCardView-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/ilhamelmujib/Documents/AndroidStudioProjects/AndroidCardView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1599e5f1fab14a1ee545403efc02d1878c839a8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ilhamelmujib/.android/build-cache/055a1708113cde8dd7843c12fa45a0d63454d101/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/home/ilhamelmujib/Documents/AndroidStudioProjects/AndroidCardView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3b3e2cf8c915160977d9db091f3950139f908588/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ilhamelmujib/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/ilhamelmujib/Documents/AndroidStudioProjects/AndroidCardView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_88b64d496d8e97d0b7597280dd7b5a1898662484/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ilhamelmujib/.android/build-cache/3ee048c26f54218726acc50eacfdfd949722e680/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/ilhamelmujib/Documents/AndroidStudioProjects/AndroidCardView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_33e38fdb8ebd999d433c5c98c5bfece1b22c033b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ilhamelmujib/.android/build-cache/eac5e81610bfd8f0f575fdeb493ed3014c923530/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/home/ilhamelmujib/Documents/AndroidStudioProjects/AndroidCardView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6c867e32c7550a20b7876e72c24a5137c3f335cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ilhamelmujib/.android/build-cache/6b112263d0b314e4fd0f78adae64fab361d8be83/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="/home/ilhamelmujib/Documents/AndroidStudioProjects/AndroidCardView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d354c5479a58b58a59f42eedc6e0d84c42ccc7a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ilhamelmujib/.android/build-cache/385bc7f4b552964d39f7d0827b92ea9dcc852f72/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/ilhamelmujib/Documents/AndroidStudioProjects/AndroidCardView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6e0583570a67516e2a1a40f41fb78e805a424341/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ilhamelmujib/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/ilhamelmujib/Documents/AndroidStudioProjects/AndroidCardView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_e77a0aaf428513e2721a006766d22f2fb075892b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ilhamelmujib/.android/build-cache/db8a46840647afacb2448e8c67f0bae0fd542552/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/ilhamelmujib/Documents/AndroidStudioProjects/AndroidCardView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_45eac50ad1987d0cf96221960e0f2877b2622ee0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ilhamelmujib/Documents/AndroidStudioProjects/AndroidCardView-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6928cac747ea46ee6535373a5dfa8cf3599cceac">
+        <dex dex="/home/ilhamelmujib/Documents/AndroidStudioProjects/AndroidCardView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f97d8ba6756344002f133720307ca39bdca3d779/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ilhamelmujib/.android/build-cache/62589277c6b461b59f67eed351f5c013eff366ac/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/ilhamelmujib/Documents/AndroidStudioProjects/AndroidCardView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fb2cff03d955c3439bdacae503d91b11187f62f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ilhamelmujib/.android/build-cache/385bc7f4b552964d39f7d0827b92ea9dcc852f72/output/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/ilhamelmujib/Documents/AndroidStudioProjects/AndroidCardView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_f5b1cbc697a0e87c20fc98a2cd53c6b93fe88d35/classes.dex" />
+    </item>
+
+</items>
